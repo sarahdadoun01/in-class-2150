@@ -1,0 +1,1 @@
+(()=>{"use strict";document.addEventListener("DOMContentLoaded",(()=>{const e=document.getElementById("registerform");e&&e.addEventListener("submit",(e=>{e.preventDefault(),alert("Success!")}))}))})();
